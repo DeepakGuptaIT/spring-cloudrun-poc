@@ -1,0 +1,7 @@
+kind: Application
+server:
+  port: 8080
+  address: 0.0.0.0
+spring:
+  application:
+    name: spring-cloudrun-poc
